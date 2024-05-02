@@ -13,11 +13,14 @@ Tech Used
 * API: [TMDB](https://www.themoviedb.org/)
 
 
-## [Vai Chover](https://github.com/Marbarret/vai_chover) ###
+## [Aplication Weather](https://github.com/Marbarret/AppWeather) ###
 
 Tech Used
 
-* Em construção
+* Language: Swift 5
+* IDE: Xcode 12.4
+* Architecture: MVC
+* API: [Open Weather](https://openweathermap.org/api)
 
 
 ## Converso de Moeda ###
