@@ -2,6 +2,16 @@
 
 Projetos nativos iOS criados em UIKit/SwiftUI
 
+## [Request APP - Rick and Morty](https://github.com/Marbarret/request_api) ###
+
+Tech Used
+
+* Language: Swift 5.4
+* IDE: Xcode 14.3
+* Architecture: MVVM (Model View ViewModel)
+* API: [Rick and Morty](https://rickandmortyapi.com/)
+
+  
 ## [Movie App](https://github.com/Marbarret/TMDB-Movie) ###
 
 Tech Used
