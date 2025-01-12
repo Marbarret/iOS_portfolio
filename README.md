@@ -1,6 +1,15 @@
 # iOS portifolio
 
 Projetos nativos iOS criados em UIKit/SwiftUI
+## [BUSEASE APP](https://github.com/Marbarret/busease-app) ###
+
+Tech Used
+
+* Language: Swift 5
+* IDE: Xcode 12.2
+* Architecture: MVVM (Model View ViewModel)
+* API: [Personal API - NodeJS](https://github.com/Marbarret/res_node)
+
 
 ## [Request APP - Rick and Morty](https://github.com/Marbarret/request_api) ###
 
